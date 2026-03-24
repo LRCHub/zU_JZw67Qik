@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "base_track": "Zoltraak",
+  "base_artist": "Evan Call",
+  "createdAt": "2026-03-24T13:31:20.114777Z",
+  "candidates": [
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Zoltraak",
+      "artist": "Evan Call",
+      "has_synced": true,
+      "path": "select/localdb_01_Zoltraak_Evan_Call.lrc",
+      "repo_name": "sWFeSl4hhIg"
+    }
+  ]
+}
